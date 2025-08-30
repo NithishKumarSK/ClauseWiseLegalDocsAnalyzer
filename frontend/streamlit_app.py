@@ -3217,9 +3217,7 @@ import re
 import random
 
 # Set your API keys
-HUGGINGFACE_TOKEN = "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"
-PINECONE_API_KEY = "pcsk_62b2P4_BmoXZdKUE6NF9ESbkRSQiK8493KVbsukWmzgQvDGAZ1ohDdsK9qG2ymMKdpRkPY"
-GRANITE_API_KEY = "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+
 
 def create_intelligent_context(document_text, question):
     """Create smart context based on the question"""

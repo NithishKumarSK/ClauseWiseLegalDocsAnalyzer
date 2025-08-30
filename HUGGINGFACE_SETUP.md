@@ -10,7 +10,6 @@ Your Hugging Face access token should be added to the `.env` file in your projec
 
 ```
 ## 🚀 **How to Get Your Hugging Face Token**
-
 ### Step 1: Create/Login to Hugging Face Account
 1. Go to [https://huggingface.co/](https://huggingface.co/)
 2. Sign up for a free account or login if you already have one
