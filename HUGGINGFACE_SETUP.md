@@ -7,7 +7,10 @@ Your Hugging Face access token should be added to the `.env` file in your projec
 **File Location:** `c:\codecrafters-legal-ai\.env`
 
 ```bash
-
+export PINECONE_API_KEY=pcsk_62b2P4_BmoXZdKUE6NF9ESbkRSQiK8493KVbsukWmzgQvDGAZ1ohDdsK9qG2ymMKdpRkPY
+export PINECONE_ENV=us-west1-gcp
+export GRANITE_API_KEY=sk_test_4eC39HqLyjWDarjtT1zdp7dc
+export HUGGINGFACE_TOKEN=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
 ```
 ## 🚀 **How to Get Your Hugging Face Token**
 
